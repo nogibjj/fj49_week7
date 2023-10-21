@@ -41,7 +41,19 @@ Split into 500 row files
 
 ## Contributing
 
-Contributions welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+I welcome contributions and improvements! To contribute to this project, please follow these guidelines:
+
+Fork the repository.
+Create a new branch for your feature or bug fix.
+Write clear, concise code with comments as needed.
+Write tests for your code.
+Make sure the existing tests pass.
+Submit a pull request with a clear description and reference to the related issue (if applicable).
+We appreciate your help in making this tool better!
+
+To reach me please email me at faraz.jawed@duke.edu
+
+
 
 ## License
 
