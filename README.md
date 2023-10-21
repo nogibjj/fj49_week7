@@ -1,15 +1,25 @@
-## SQLite Lab
+# CSV Splitter
 
-### Lab:
 
-In this lab we extract the grocerydb database which is hosted on a github repository. We transform and load it into SQLite and then execute two sample queries: 
-* Sum of the count_product column.
-* Average of the count_product column.
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/your-repo/blob/main/LICENSE)
+[![PyPI version](https://badge.fury.io/py/your-tool.svg)](https://badge.fury.com/py/your-tool)
+[![Build Status](https://travis-ci.org/yourusername/your-repo.svg?branch=main)](https://travis-ci.org/yourusername/your-repo)
 
-Artitechtural diagram showing how the project works:
+A Python tool for splitting CSV files into smaller chunks.
 
-![etl](https://github.com/nogibjj/sqlite-lab-fj49/assets/101464414/2809102f-e363-4d23-8311-b7ec04f43804)
+## Table of Contents
 
-I took help from Claude.AI from the company Anthropic (Open AI's competitor)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Command-Line Interface](#command-line-interface)
+- [Examples](#examples)
+- [Contributing](#contributing)
+- [License](#license)
 
+## Installation
+
+You can install `csv-splitter` via pip:
+
+```bash
+pip install your-tool
 
