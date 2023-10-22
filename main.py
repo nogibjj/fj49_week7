@@ -19,6 +19,7 @@ def split_csv(input_file, output_prefix, chunk_size):
         click.echo(error_message)
         return
 
+    outfile = None
     for i, row in enumerate(rows):
         if i % chunk_size == 0:
             if i > 0:
