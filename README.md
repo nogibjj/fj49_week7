@@ -1,4 +1,4 @@
-# CSV Splitter
+# CSV Splitter - Split your large CSV files into smaller chunks
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/your-repo/blob/main/LICENSE)
 [![PyPI version](https://badge.fury.io/py/your-tool.svg)](https://badge.fury.com/py/your-tool)
