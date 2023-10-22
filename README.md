@@ -2,7 +2,6 @@
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/your-repo/blob/main/LICENSE)
 [![PyPI](https://img.shields.io/pypi/v/my-csv-splitter.svg)](https://pypi.org/project/my-csv-splitter/)
-[![Build Status](https://travis-ci.org/yourusername/your-repo.svg?branch=main)](https://travis-ci.org/yourusername/your-repo)
 
 ## Table of Contents
 
