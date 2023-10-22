@@ -1,7 +1,7 @@
 # CSV Splitter - Split your large CSV files into smaller chunks
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/your-repo/blob/main/LICENSE)
-[![PyPI version](https://badge.fury.io/py/your-tool.svg)](https://badge.fury.com/py/your-tool)
+[![PyPI](https://img.shields.io/pypi/v/my-csv-splitter.svg)](https://pypi.org/project/my-csv-splitter/)
 [![Build Status](https://travis-ci.org/yourusername/your-repo.svg?branch=main)](https://travis-ci.org/yourusername/your-repo)
 
 ## Table of Contents
