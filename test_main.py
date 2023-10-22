@@ -1,5 +1,5 @@
 import os
-import pytest
+#import pytest
 from main import split_csv
 
 def test_split_csv():

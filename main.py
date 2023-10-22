@@ -12,10 +12,13 @@ def split_csv(input_file, output_prefix, chunk_size):
     total_rows = len(rows)
 
     if chunk_size > total_rows:
-        click.echo(f"Error: Chunk size ({chunk_size}) is greater than the total number of rows ({total_rows}) in the input CSV.")
+        error_message = (
+        f"Error: Chunk size ({chunk_size}) is greater than the total number "
+        f"of rows ({total_rows}) in the input CSV."
+        )
+        click.echo(error_message)
         return
 
-    # Proceed with splitting the CSV as before
     for i, row in enumerate(rows):
         if i % chunk_size == 0:
             if i > 0:
