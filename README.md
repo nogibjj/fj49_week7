@@ -2,6 +2,7 @@
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/your-repo/blob/main/LICENSE)
 [![PyPI](https://img.shields.io/pypi/v/my-csv-splitter.svg)](https://pypi.org/project/my-csv-splitter/)
+[![CiCd](https://github.com/nogibjj/fj49_week7/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/fj49_week7/actions/workflows/cicd.yml)
 
 ## Table of Contents
 
